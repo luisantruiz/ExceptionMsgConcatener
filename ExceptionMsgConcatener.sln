@@ -5,12 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionMsgConcatener", "ExceptionMsgConcatener\ExceptionMsgConcatener.csproj", "{55019733-3CB6-4CAC-976F-969EEE496CE0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions Items", "Solutions Items", "{054A69A9-BCF9-4973-8994-2E1ECC2AEC40}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{054A69A9-BCF9-4973-8994-2E1ECC2AEC40}"
 	ProjectSection(SolutionItems) = preProject
 		ExceptionMsgConcatener.ico = ExceptionMsgConcatener.ico
 		ExceptionMsgConcatener.png = ExceptionMsgConcatener.png
 		LICENSE = LICENSE
 		ExceptionMsgConcatener\nuget.exe = ExceptionMsgConcatener\nuget.exe
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionMsgConcatener.Tests", "ExceptionMsgConcatener.Tests\ExceptionMsgConcatener.Tests.csproj", "{6C8C883D-E55E-49BC-AAEA-266981812A14}"
