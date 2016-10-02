@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ExceptionMsgConcatener</id>
+    <version>1.0</version>
+    <title>Exception Message Concatener</title>
+    <authors>luisantruiz</authors>
+    <owners>luisantruiz</owners>
+    <licenseUrl>https://raw.githubusercontent.com/luisantruiz/ExceptionMsgConcatener/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/luisantruiz/ExceptionMsgConcatener</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/luisantruiz/ExceptionMsgConcatener/master/ExceptionMsgConcatener.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Exception Message Concatener allows to get all the Inner Exceptions Messages from an Exception. You can return a new Exception or just all messages combined in one string.</description>
+    <releaseNotes>Initial functionality, two methods to get all Inner Exception messages from an Exception</releaseNotes>
+    <copyright>Copyright 2016 MIT</copyright>
+    <tags>exception, message, concatener</tags>
+  </metadata>
+</package>
