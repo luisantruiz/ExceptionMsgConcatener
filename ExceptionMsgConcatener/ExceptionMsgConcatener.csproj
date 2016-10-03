@@ -11,6 +11,7 @@
     <AssemblyName>ExceptionMsgConcatener</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -45,6 +46,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ExceptionMsgConcatener.nuspec" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lib\ExceptionMsgConcatener.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
